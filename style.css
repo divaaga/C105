@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: hotpink;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dotted whitesmoke;
+    width: 300px;
+    height: 300px;
+}
+
+.list_of_obj{
+    color: black;
+}
+
+#result_obj_name, #result_obj_accuracy {
+    color: gold;
+}
